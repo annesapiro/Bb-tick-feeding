@@ -1,5 +1,5 @@
 # Bb-tick-feeding
-This repo contains the intermediate files and code used to generate figures for Longitudinal map of transcriptome changes in the Lyme pathogen Borrelia burgdorferi during tick-borne transmission by Anne L. Sapiro, Beth M. Hayes, Regan F. Volk, Jenny Y. Zhang, Diane M. Brooks, Calla Martyn, Atanas Radkov, Ziyi Zhao, Margie Kinnersley, Patrick R. Secor, Balyn W. Zaro, and Seemay Chou.
+This repo contains the intermediate files and code used to generate figures for Longitudinal map of transcriptome changes in the Lyme pathogen Borrelia burgdorferi during tick-borne transmission by Anne L. Sapiro, Beth M. Hayes, Regan F. Volk, Jenny Y. Zhang, Diane M. Brooks, Calla Martyn, Atanas Radkov, Ziyi Zhao, Margie Kinnersley, Patrick R. Secor, Balyn W. Zaro, and Seemay Chou. eLife12:RP86636. https://doi.org/10.7554/eLife.86636.2
 
 Differential expression analysis was performed using DESeq2 with R script `count_thru_DESeq2_aBb.R`
 
